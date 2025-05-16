@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\03455bce-f69f-4204-907c-caaf89caa14b.jpg",
+      "PackagePath": "staticwebassets\\actores\\03455bce-f69f-4204-907c-caaf89caa14b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\37ea5dc4-1028-4030-8d2e-abad748fa31e.jpg",
+      "PackagePath": "staticwebassets\\actores\\37ea5dc4-1028-4030-8d2e-abad748fa31e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\589427e4-b6c5-4e21-9759-d645950a6c09.jpg",
+      "PackagePath": "staticwebassets\\actores\\589427e4-b6c5-4e21-9759-d645950a6c09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\5fd9afaa-2fbc-4121-8880-732ec85d3322.png",
+      "PackagePath": "staticwebassets\\actores\\5fd9afaa-2fbc-4121-8880-732ec85d3322.png"
+    },
+    {
+      "Id": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\cb7fb96e-eede-4b9b-88e3-e0d7c839330d.jpg",
+      "PackagePath": "staticwebassets\\actores\\cb7fb96e-eede-4b9b-88e3-e0d7c839330d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\f05d02ff-9f46-4200-ae13-28cf67193113.png",
+      "PackagePath": "staticwebassets\\actores\\f05d02ff-9f46-4200-ae13-28cf67193113.png"
+    },
+    {
+      "Id": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\f1ec731c-8d45-441f-9473-1c57870d24b3.jpg",
+      "PackagePath": "staticwebassets\\actores\\f1ec731c-8d45-441f-9473-1c57870d24b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\79f80a14-28bd-4cc2-8c05-38b45792a397.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\79f80a14-28bd-4cc2-8c05-38b45792a397.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\a37ee139-3d45-48ba-9de0-af934e05e4cf.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\a37ee139-3d45-48ba-9de0-af934e05e4cf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\be9f7510-78d7-4993-8789-78b88afdfae7.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\be9f7510-78d7-4993-8789-78b88afdfae7.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.PeliculasAPI.props",
+      "PackagePath": "build\\PeliculasAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.PeliculasAPI.props",
+      "PackagePath": "buildMultiTargeting\\PeliculasAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.PeliculasAPI.props",
+      "PackagePath": "buildTransitive\\PeliculasAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,1052 @@
+{
+  "Version": 1,
+  "Hash": "y9yUQHK1fOkUxj9aDUJFJn+Se3fgdPh1tUl3BnnqElI=",
+  "Source": "PeliculasAPI",
+  "BasePath": "_content/PeliculasAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PeliculasAPI\\wwwroot",
+      "Source": "PeliculasAPI",
+      "ContentRoot": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\03455bce-f69f-4204-907c-caaf89caa14b.jpg",
+      "SourceId": "PeliculasAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "RelativePath": "actores/03455bce-f69f-4204-907c-caaf89caa14b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kptopprrkn",
+      "Integrity": "aNmjetV1v3US0EMaDp48Z8QwdfknYc2YbCxHaRKrjSw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\03455bce-f69f-4204-907c-caaf89caa14b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\37ea5dc4-1028-4030-8d2e-abad748fa31e.jpg",
+      "SourceId": "PeliculasAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "RelativePath": "actores/37ea5dc4-1028-4030-8d2e-abad748fa31e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ld9fcnap2",
+      "Integrity": "+UOvdmYFwJXJRUm7D2Ok3GAiKGdkOJkoXmYT02xERc0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\37ea5dc4-1028-4030-8d2e-abad748fa31e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\589427e4-b6c5-4e21-9759-d645950a6c09.jpg",
+      "SourceId": "PeliculasAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "RelativePath": "actores/589427e4-b6c5-4e21-9759-d645950a6c09#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bt1njv1ylb",
+      "Integrity": "ETjKnW5GfXLn/pDKBvT9oB++3fHXn1W4fE5VZ7/hBa0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\589427e4-b6c5-4e21-9759-d645950a6c09.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\5fd9afaa-2fbc-4121-8880-732ec85d3322.png",
+      "SourceId": "PeliculasAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "RelativePath": "actores/5fd9afaa-2fbc-4121-8880-732ec85d3322#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "if42ykwwsl",
+      "Integrity": "Ekuo0WtVIPXib+SQORk5fRVXdtxna8WXEFYZZQWQxNM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\5fd9afaa-2fbc-4121-8880-732ec85d3322.png"
+    },
+    {
+      "Identity": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\cb7fb96e-eede-4b9b-88e3-e0d7c839330d.jpg",
+      "SourceId": "PeliculasAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "RelativePath": "actores/cb7fb96e-eede-4b9b-88e3-e0d7c839330d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3p85ky9qq6",
+      "Integrity": "udj1HqvrzM7SpOvVDoywXOIRzqiNoE6q6uEMhdGr+J0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\cb7fb96e-eede-4b9b-88e3-e0d7c839330d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\f05d02ff-9f46-4200-ae13-28cf67193113.png",
+      "SourceId": "PeliculasAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "RelativePath": "actores/f05d02ff-9f46-4200-ae13-28cf67193113#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "if42ykwwsl",
+      "Integrity": "Ekuo0WtVIPXib+SQORk5fRVXdtxna8WXEFYZZQWQxNM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\f05d02ff-9f46-4200-ae13-28cf67193113.png"
+    },
+    {
+      "Identity": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\f1ec731c-8d45-441f-9473-1c57870d24b3.jpg",
+      "SourceId": "PeliculasAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "RelativePath": "actores/f1ec731c-8d45-441f-9473-1c57870d24b3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kxzdgu77sl",
+      "Integrity": "2JBfIrr11L2Xus/Xty0LPD3gzsSTGOMLVsAru0P6aq4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\f1ec731c-8d45-441f-9473-1c57870d24b3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\79f80a14-28bd-4cc2-8c05-38b45792a397.jpg",
+      "SourceId": "PeliculasAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "RelativePath": "peliculas/79f80a14-28bd-4cc2-8c05-38b45792a397#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0fy8z7k5mj",
+      "Integrity": "PF8YhoaekVpRJLA3zoODCMG8rkDftJ74OOwTlOnCaeA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\79f80a14-28bd-4cc2-8c05-38b45792a397.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\a37ee139-3d45-48ba-9de0-af934e05e4cf.jpg",
+      "SourceId": "PeliculasAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "RelativePath": "peliculas/a37ee139-3d45-48ba-9de0-af934e05e4cf#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "udccnbb2iq",
+      "Integrity": "snwn5oBmiGYXialTA2SuL3QqXKEZrq2q6gohW7Dbo44=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\a37ee139-3d45-48ba-9de0-af934e05e4cf.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\be9f7510-78d7-4993-8789-78b88afdfae7.jpg",
+      "SourceId": "PeliculasAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "RelativePath": "peliculas/be9f7510-78d7-4993-8789-78b88afdfae7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p492zdnnt0",
+      "Integrity": "R95DcCaQAOfnR2DrzHFmsqyMsk4DgeWfIvKwyk0Sjto=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\be9f7510-78d7-4993-8789-78b88afdfae7.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "actores/03455bce-f69f-4204-907c-caaf89caa14b.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\03455bce-f69f-4204-907c-caaf89caa14b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aNmjetV1v3US0EMaDp48Z8QwdfknYc2YbCxHaRKrjSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 18:47:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aNmjetV1v3US0EMaDp48Z8QwdfknYc2YbCxHaRKrjSw="
+        }
+      ]
+    },
+    {
+      "Route": "actores/03455bce-f69f-4204-907c-caaf89caa14b.kptopprrkn.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\03455bce-f69f-4204-907c-caaf89caa14b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aNmjetV1v3US0EMaDp48Z8QwdfknYc2YbCxHaRKrjSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 18:47:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kptopprrkn"
+        },
+        {
+          "Name": "label",
+          "Value": "actores/03455bce-f69f-4204-907c-caaf89caa14b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aNmjetV1v3US0EMaDp48Z8QwdfknYc2YbCxHaRKrjSw="
+        }
+      ]
+    },
+    {
+      "Route": "actores/37ea5dc4-1028-4030-8d2e-abad748fa31e.3ld9fcnap2.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\37ea5dc4-1028-4030-8d2e-abad748fa31e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+UOvdmYFwJXJRUm7D2Ok3GAiKGdkOJkoXmYT02xERc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 17:48:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ld9fcnap2"
+        },
+        {
+          "Name": "label",
+          "Value": "actores/37ea5dc4-1028-4030-8d2e-abad748fa31e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+UOvdmYFwJXJRUm7D2Ok3GAiKGdkOJkoXmYT02xERc0="
+        }
+      ]
+    },
+    {
+      "Route": "actores/37ea5dc4-1028-4030-8d2e-abad748fa31e.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\37ea5dc4-1028-4030-8d2e-abad748fa31e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+UOvdmYFwJXJRUm7D2Ok3GAiKGdkOJkoXmYT02xERc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 17:48:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+UOvdmYFwJXJRUm7D2Ok3GAiKGdkOJkoXmYT02xERc0="
+        }
+      ]
+    },
+    {
+      "Route": "actores/589427e4-b6c5-4e21-9759-d645950a6c09.bt1njv1ylb.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\589427e4-b6c5-4e21-9759-d645950a6c09.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ETjKnW5GfXLn/pDKBvT9oB++3fHXn1W4fE5VZ7/hBa0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 18:25:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bt1njv1ylb"
+        },
+        {
+          "Name": "label",
+          "Value": "actores/589427e4-b6c5-4e21-9759-d645950a6c09.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ETjKnW5GfXLn/pDKBvT9oB++3fHXn1W4fE5VZ7/hBa0="
+        }
+      ]
+    },
+    {
+      "Route": "actores/589427e4-b6c5-4e21-9759-d645950a6c09.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\589427e4-b6c5-4e21-9759-d645950a6c09.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ETjKnW5GfXLn/pDKBvT9oB++3fHXn1W4fE5VZ7/hBa0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 18:25:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ETjKnW5GfXLn/pDKBvT9oB++3fHXn1W4fE5VZ7/hBa0="
+        }
+      ]
+    },
+    {
+      "Route": "actores/5fd9afaa-2fbc-4121-8880-732ec85d3322.if42ykwwsl.png",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\5fd9afaa-2fbc-4121-8880-732ec85d3322.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "516518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ekuo0WtVIPXib+SQORk5fRVXdtxna8WXEFYZZQWQxNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 21:16:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "if42ykwwsl"
+        },
+        {
+          "Name": "label",
+          "Value": "actores/5fd9afaa-2fbc-4121-8880-732ec85d3322.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ekuo0WtVIPXib+SQORk5fRVXdtxna8WXEFYZZQWQxNM="
+        }
+      ]
+    },
+    {
+      "Route": "actores/5fd9afaa-2fbc-4121-8880-732ec85d3322.png",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\5fd9afaa-2fbc-4121-8880-732ec85d3322.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "516518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ekuo0WtVIPXib+SQORk5fRVXdtxna8WXEFYZZQWQxNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 21:16:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ekuo0WtVIPXib+SQORk5fRVXdtxna8WXEFYZZQWQxNM="
+        }
+      ]
+    },
+    {
+      "Route": "actores/cb7fb96e-eede-4b9b-88e3-e0d7c839330d.3p85ky9qq6.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\cb7fb96e-eede-4b9b-88e3-e0d7c839330d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"udj1HqvrzM7SpOvVDoywXOIRzqiNoE6q6uEMhdGr+J0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 17:49:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3p85ky9qq6"
+        },
+        {
+          "Name": "label",
+          "Value": "actores/cb7fb96e-eede-4b9b-88e3-e0d7c839330d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-udj1HqvrzM7SpOvVDoywXOIRzqiNoE6q6uEMhdGr+J0="
+        }
+      ]
+    },
+    {
+      "Route": "actores/cb7fb96e-eede-4b9b-88e3-e0d7c839330d.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\cb7fb96e-eede-4b9b-88e3-e0d7c839330d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"udj1HqvrzM7SpOvVDoywXOIRzqiNoE6q6uEMhdGr+J0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 17:49:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-udj1HqvrzM7SpOvVDoywXOIRzqiNoE6q6uEMhdGr+J0="
+        }
+      ]
+    },
+    {
+      "Route": "actores/f05d02ff-9f46-4200-ae13-28cf67193113.if42ykwwsl.png",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\f05d02ff-9f46-4200-ae13-28cf67193113.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "516518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ekuo0WtVIPXib+SQORk5fRVXdtxna8WXEFYZZQWQxNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 22:06:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "if42ykwwsl"
+        },
+        {
+          "Name": "label",
+          "Value": "actores/f05d02ff-9f46-4200-ae13-28cf67193113.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ekuo0WtVIPXib+SQORk5fRVXdtxna8WXEFYZZQWQxNM="
+        }
+      ]
+    },
+    {
+      "Route": "actores/f05d02ff-9f46-4200-ae13-28cf67193113.png",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\f05d02ff-9f46-4200-ae13-28cf67193113.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "516518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ekuo0WtVIPXib+SQORk5fRVXdtxna8WXEFYZZQWQxNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 22:06:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ekuo0WtVIPXib+SQORk5fRVXdtxna8WXEFYZZQWQxNM="
+        }
+      ]
+    },
+    {
+      "Route": "actores/f1ec731c-8d45-441f-9473-1c57870d24b3.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\f1ec731c-8d45-441f-9473-1c57870d24b3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "576222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2JBfIrr11L2Xus/Xty0LPD3gzsSTGOMLVsAru0P6aq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 21:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2JBfIrr11L2Xus/Xty0LPD3gzsSTGOMLVsAru0P6aq4="
+        }
+      ]
+    },
+    {
+      "Route": "actores/f1ec731c-8d45-441f-9473-1c57870d24b3.kxzdgu77sl.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\f1ec731c-8d45-441f-9473-1c57870d24b3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "576222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2JBfIrr11L2Xus/Xty0LPD3gzsSTGOMLVsAru0P6aq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 21:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kxzdgu77sl"
+        },
+        {
+          "Name": "label",
+          "Value": "actores/f1ec731c-8d45-441f-9473-1c57870d24b3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2JBfIrr11L2Xus/Xty0LPD3gzsSTGOMLVsAru0P6aq4="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/79f80a14-28bd-4cc2-8c05-38b45792a397.0fy8z7k5mj.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\79f80a14-28bd-4cc2-8c05-38b45792a397.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PF8YhoaekVpRJLA3zoODCMG8rkDftJ74OOwTlOnCaeA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 20:32:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0fy8z7k5mj"
+        },
+        {
+          "Name": "label",
+          "Value": "peliculas/79f80a14-28bd-4cc2-8c05-38b45792a397.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PF8YhoaekVpRJLA3zoODCMG8rkDftJ74OOwTlOnCaeA="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/79f80a14-28bd-4cc2-8c05-38b45792a397.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\79f80a14-28bd-4cc2-8c05-38b45792a397.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PF8YhoaekVpRJLA3zoODCMG8rkDftJ74OOwTlOnCaeA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 20:32:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PF8YhoaekVpRJLA3zoODCMG8rkDftJ74OOwTlOnCaeA="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/a37ee139-3d45-48ba-9de0-af934e05e4cf.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\a37ee139-3d45-48ba-9de0-af934e05e4cf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "448713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"snwn5oBmiGYXialTA2SuL3QqXKEZrq2q6gohW7Dbo44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 08:45:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-snwn5oBmiGYXialTA2SuL3QqXKEZrq2q6gohW7Dbo44="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/a37ee139-3d45-48ba-9de0-af934e05e4cf.udccnbb2iq.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\a37ee139-3d45-48ba-9de0-af934e05e4cf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "448713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"snwn5oBmiGYXialTA2SuL3QqXKEZrq2q6gohW7Dbo44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 08:45:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "udccnbb2iq"
+        },
+        {
+          "Name": "label",
+          "Value": "peliculas/a37ee139-3d45-48ba-9de0-af934e05e4cf.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-snwn5oBmiGYXialTA2SuL3QqXKEZrq2q6gohW7Dbo44="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/be9f7510-78d7-4993-8789-78b88afdfae7.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\be9f7510-78d7-4993-8789-78b88afdfae7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R95DcCaQAOfnR2DrzHFmsqyMsk4DgeWfIvKwyk0Sjto=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 09:00:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R95DcCaQAOfnR2DrzHFmsqyMsk4DgeWfIvKwyk0Sjto="
+        }
+      ]
+    },
+    {
+      "Route": "peliculas/be9f7510-78d7-4993-8789-78b88afdfae7.p492zdnnt0.jpg",
+      "AssetFile": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code + Angular 19\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\be9f7510-78d7-4993-8789-78b88afdfae7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R95DcCaQAOfnR2DrzHFmsqyMsk4DgeWfIvKwyk0Sjto=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 09:00:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p492zdnnt0"
+        },
+        {
+          "Name": "label",
+          "Value": "peliculas/be9f7510-78d7-4993-8789-78b88afdfae7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R95DcCaQAOfnR2DrzHFmsqyMsk4DgeWfIvKwyk0Sjto="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code \u002B Angular 19\\PeliculasAPI\\PeliculasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9028E6C-0CB1-40C5-B904-7443C2A6C879}|PeliculasAPI\\PeliculasAPI.csproj|c:\\users\\hecto\\desktop\\curso de .net code \u002B angular 19\\peliculasapi\\peliculasapi\\peliculasapi\\controllers\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9028E6C-0CB1-40C5-B904-7443C2A6C879}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\controllers\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A83C7A-5689-4070-BFE3-15CD376902F4}|PeliculasAPIPruebas\\PeliculasAPIPruebas.csproj|c:\\users\\hecto\\desktop\\curso de .net code \u002B angular 19\\peliculasapi\\peliculasapi\\peliculasapipruebas\\dobles\\outputcachestorefalso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A83C7A-5689-4070-BFE3-15CD376902F4}|PeliculasAPIPruebas\\PeliculasAPIPruebas.csproj|solutionrelative:peliculasapipruebas\\dobles\\outputcachestorefalso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9028E6C-0CB1-40C5-B904-7443C2A6C879}|PeliculasAPI\\PeliculasAPI.csproj|c:\\users\\hecto\\desktop\\curso de .net code \u002B angular 19\\peliculasapi\\peliculasapi\\peliculasapi\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9028E6C-0CB1-40C5-B904-7443C2A6C879}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A83C7A-5689-4070-BFE3-15CD376902F4}|PeliculasAPIPruebas\\PeliculasAPIPruebas.csproj|c:\\users\\hecto\\desktop\\curso de .net code \u002B angular 19\\peliculasapi\\peliculasapi\\peliculasapipruebas\\controllers\\generoscontrollerpruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A83C7A-5689-4070-BFE3-15CD376902F4}|PeliculasAPIPruebas\\PeliculasAPIPruebas.csproj|solutionrelative:peliculasapipruebas\\controllers\\generoscontrollerpruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A83C7A-5689-4070-BFE3-15CD376902F4}|PeliculasAPIPruebas\\PeliculasAPIPruebas.csproj|c:\\users\\hecto\\desktop\\curso de .net code \u002B angular 19\\peliculasapi\\peliculasapi\\peliculasapipruebas\\basepruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A83C7A-5689-4070-BFE3-15CD376902F4}|PeliculasAPIPruebas\\PeliculasAPIPruebas.csproj|solutionrelative:peliculasapipruebas\\basepruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code \u002B Angular 19\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI\\Controllers\\CustomBaseController.cs",
+              "RelativeDocumentMoniker": "PeliculasAPI\\Controllers\\CustomBaseController.cs",
+              "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code \u002B Angular 19\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI\\Controllers\\CustomBaseController.cs",
+              "RelativeToolTip": "PeliculasAPI\\Controllers\\CustomBaseController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwEoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T22:18:45.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutputCacheStoreFalso.cs",
+              "DocumentMoniker": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code \u002B Angular 19\\PeliculasAPI\\PeliculasAPI\\PeliculasAPIPruebas\\Dobles\\OutputCacheStoreFalso.cs",
+              "RelativeDocumentMoniker": "PeliculasAPIPruebas\\Dobles\\OutputCacheStoreFalso.cs",
+              "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code \u002B Angular 19\\PeliculasAPI\\PeliculasAPI\\PeliculasAPIPruebas\\Dobles\\OutputCacheStoreFalso.cs",
+              "RelativeToolTip": "PeliculasAPIPruebas\\Dobles\\OutputCacheStoreFalso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:56:50.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenerosControllerPruebas.cs",
+              "DocumentMoniker": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code \u002B Angular 19\\PeliculasAPI\\PeliculasAPI\\PeliculasAPIPruebas\\Controllers\\GenerosControllerPruebas.cs",
+              "RelativeDocumentMoniker": "PeliculasAPIPruebas\\Controllers\\GenerosControllerPruebas.cs",
+              "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code \u002B Angular 19\\PeliculasAPI\\PeliculasAPI\\PeliculasAPIPruebas\\Controllers\\GenerosControllerPruebas.cs",
+              "RelativeToolTip": "PeliculasAPIPruebas\\Controllers\\GenerosControllerPruebas.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAiwIIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:23:18.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenerosController.cs",
+              "DocumentMoniker": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code \u002B Angular 19\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI\\Controllers\\GenerosController.cs",
+              "RelativeDocumentMoniker": "PeliculasAPI\\Controllers\\GenerosController.cs",
+              "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code \u002B Angular 19\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI\\Controllers\\GenerosController.cs",
+              "RelativeToolTip": "PeliculasAPI\\Controllers\\GenerosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:18:24.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasePruebas.cs",
+              "DocumentMoniker": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code \u002B Angular 19\\PeliculasAPI\\PeliculasAPI\\PeliculasAPIPruebas\\BasePruebas.cs",
+              "RelativeDocumentMoniker": "PeliculasAPIPruebas\\BasePruebas.cs",
+              "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso de .NET Code \u002B Angular 19\\PeliculasAPI\\PeliculasAPI\\PeliculasAPIPruebas\\BasePruebas.cs",
+              "RelativeToolTip": "PeliculasAPIPruebas\\BasePruebas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:14:34.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
